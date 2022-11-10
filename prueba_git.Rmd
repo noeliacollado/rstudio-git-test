@@ -1,0 +1,11 @@
+---
+title: "Prueba git"
+author: "Noelia Collado"
+date: "2022-11-10"
+output: html_document
+---
+
+```{r}
+a = "hola"
+```
+
