@@ -7,5 +7,7 @@ output: html_document
 
 ```{r}
 a = "hola"
+
+b = 10
 ```
 
